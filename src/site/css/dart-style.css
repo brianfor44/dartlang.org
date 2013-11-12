@@ -74,6 +74,7 @@ ul, li {
     z-index: 200;
     height: 100%;
     margin-bottom: 300px;
+    padding-bottom: 50px;
     background-color: #fff;
 }
 
@@ -352,7 +353,7 @@ i.sprite-icon-close-x {
 }
 
 @media (max-width: 768px) {
-	.dart-carousel .carousel-indicators.icon-indicators  {
+	.dart-carousel .carousel-indicators.icon-indicators {
 		width: 100%;
 		margin-left: -50%;
 	}
